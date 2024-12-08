@@ -19,9 +19,9 @@ CREATE TABLE `Products` (
 
 INSERT INTO `Invontaire`.`Products` (`id`, `nom`, `Categorie`, `Quantite`, `Prix`) VALUES 
 (1, 'Samsung 27', 'TV', 15, 3800),
-(1, 'LG 32', 'TV', 20, 5800),
-(1, 'Sony 55', 'TV', 10, 8000),
-(2, 'Samsung', 'Telephone', 12, 500),
-(4, 'Iphone', 'Telephone', 10, 500),
-(5, 'iphone18', 'Telephone', 10, 7000);
+(2, 'LG 32', 'TV', 20, 5800),
+(3, 'Sony 55', 'TV', 10, 8000),
+(4, 'Samsung 22', 'Telephone', 12, 7500),
+(5, 'Iphone 13', 'Telephone', 10, 5200),
+(6, 'iphone 16', 'Telephone', 10, 8000);
 
