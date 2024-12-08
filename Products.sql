@@ -18,7 +18,10 @@ CREATE TABLE `Products` (
 ) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 INSERT INTO `Invontaire`.`Products` (`id`, `nom`, `Categorie`, `Quantite`, `Prix`) VALUES 
-(2, 'Samsung', 'telephone', 12, 500),
+(1, 'Samsung 27', 'TV', 15, 3800),
+(1, 'LG 32', 'TV', 20, 5800),
+(1, 'Sony 55', 'TV', 10, 8000),
+(2, 'Samsung', 'Telephone', 12, 500),
 (4, 'Iphone', 'Telephone', 10, 500),
 (5, 'iphone18', 'Telephone', 10, 7000);
 
